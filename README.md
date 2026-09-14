@@ -2,7 +2,7 @@
 
 <!-- 🎬 Animated banner: upload the file from this workspace to the profile repo at
      assets/futuristic-header.gif  (keep the "assets" folder name) so this raw URL resolves -->
-<img src="https://raw.githubusercontent.com/peluix-srijan/peluix-srijan/main/assets/futuristic-header.gif" alt="Futuristic animated banner" />
+<img src="https://raw.githubusercontent.com/peluix-srijan/peluix-srijan/main/futuristic-header.gif" alt="Futuristic animated banner" />
 
 # 🙌 Hello, World! I'm Srijan Mondal
 
